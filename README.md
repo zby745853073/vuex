@@ -83,4 +83,11 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
             } 
             {{getnum}}   
 
+### package.json的配置
+    "rules": {
+      "arrow-parens": 0,
+      "generator-star-spacing": 0,
+      "no-mixed-spaces-and-tabs": 0
+    }
+
 
