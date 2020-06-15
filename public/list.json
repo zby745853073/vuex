@@ -1,0 +1,16 @@
+[{
+    "id":0,
+    "info":"好好学习，天天向上",
+    "done":false
+},
+{
+    "id":1,
+    "info":"vuex学习",
+    "done":false
+},
+{
+    "id":2,
+    "info":"找工作",
+    "done":false
+}
+]
